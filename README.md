@@ -39,3 +39,4 @@ See attached screenshots for workflow and generated results.
 - Integrate real-time API tools
 - Add user interface dashboard
 - Enhance multi-modal capabilities
+<img width="647" height="495" alt="c0cf12b98cc8efeec540f87a4da9c46f" src="https://github.com/user-attachments/assets/f02eb8f2-add9-4189-8951-11cbe90d917d" />
