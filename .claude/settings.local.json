@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(find backend:*)",
+      "Bash(python3 -m http.server 8080 --directory . 2>/dev/null || python -m http.server 8080 --directory . 2>/dev/null || npx serve . -p 8080 -s 2>/dev/null || echo \"请手动启动一个本地服务器，端口8080\")",
+      "Bash(cd \"/e/项目/task-manager/backend\" && npm install node-cron nodemailer)"
+    ]
+  }
+}
